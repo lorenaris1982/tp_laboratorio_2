@@ -4,6 +4,7 @@
 #include "Controller.h"
 #include "Employee.h"
 #include "utn.h"
+
 #define DATACSV "data.csv"
 #define DATABIN "data.bin"
 
@@ -49,8 +50,6 @@ int main()
     LinkedList* listaEmpleados = ll_newLinkedList();
 
     do{
-
-        option = showMainMenu();
 
         switch(option)
         {

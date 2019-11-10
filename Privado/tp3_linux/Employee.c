@@ -7,6 +7,7 @@
 #include "parser.h"
 
 
+
 Employee* employee_new(void)
 {
 	{
@@ -82,7 +83,7 @@ int employee_getId(Employee* this,int* id)
 int employee_setNombre(Employee* this,char* nombre)
 {
 	int retorno = -1;
-	if(this != NULL && nombre != NULL && isValidNombre(nombre))
+	if(this != NULL)
 	{
 		retorno = 0;
 		strncpy(this->nombre,nombre,128);
@@ -102,21 +103,11 @@ int employee_getNombre(Employee* this,char* nombre)
 	return retorno;
 }
 
-static int isValidNombre(char* nombre)
-{
-	int retorno = 0;
-	if(chequear(nombre, 1, 0, " ") && strlen(nombre)<127)
-	{
-		retorno = 1;
-	}
-	return retorno;
-
-}
 
 int employee_setHorasTrabajadas(Employee* this,int horasTrabajadas)
 {
 	int retorno = -1;
-	if(this != NULL && horasTrabajadas != NULL )
+	if(this != NULL )
 	{
 		retorno = 0;
 		this->horasTrabajadas=horasTrabajadas;
@@ -139,7 +130,7 @@ int employee_getHorasTrabajadas(Employee* this,int* horasTrabajadas)
 int employee_setSueldo(Employee* this,int sueldo)
 {
 	int retorno = -1;
-	if(this != NULL && sueldo != NULL )
+	if(this != NULL)
 	{
 		retorno = 0;
 		this->sueldo=sueldo;

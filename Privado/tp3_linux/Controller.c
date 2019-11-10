@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "LinkedList.h"
-#include "Employee.h"
 #include "parser.h"
 #include "utn.h"
 #include "Controller.h"
+
 
 /** \brief Carga los datos de los empleados desde el archivo data.csv (modo texto).
  *
@@ -69,38 +69,38 @@ int controller_loadFromBinary(char* path , LinkedList* pArrayListEmployee)
 int controller_addEmployee(LinkedList* pArrayListEmployee)
 {
     Employee* newEmployee = employee_new();
-    int auxID;
+    char auxID[51];
     char auxNombre[128];
-    int auxHorasTrabajadas;
-    int auxSueldo[51];
+    char auxHorasTrabajadas[51];
+    char auxSueldo[51];
     int i;
     int retorno = 0;
     int cantidad;
-    int id;
+    int getId;
 
     cantidad = ll_len(pArrayListEmployee);
 
     if(pArrayListEmployee != NULL)
     {
-        id = getInt(&id,"Ingrese el id del nuevo empleado:","Error",1,10000,2);
+        getId = getInt(&getId,"Ingrese el id del nuevo empleado:","Error",1,10000,2);
 
 
         for(i=0; i<cantidad; i++)
         {
             newEmployee = (Employee*) ll_get(pArrayListEmployee, i);
 
-            if(id == newEmployee->id)
+            if(getId == newEmployee->id)
             {
                 printf("Id existente...\n");
                 retorno = 1;
                 break;
             }
         }
-        if(id != newEmployee->id)
+        if(getId != newEmployee->id)
         {
             getString(auxNombre, "Ingrese el nombre\n", "Error", 1,127, 2);
-            getInt(&auxHorasTrabajadas, "Ingrese las horas trabajadas\n", "Error", 1,100000, 2);
-            getInt(&auxSueldo, "Ingrese el sueldo\n", "Error", 1,100000, 2);
+            getString(auxHorasTrabajadas, "Ingrese las horas trabajadas\n", "Error", 1,100000, 2);
+            getString(auxSueldo, "Ingrese el sueldo\n", "Error", 1,100000, 2);
             newEmployee = employee_newParametros(auxID, auxNombre, auxHorasTrabajadas, auxSueldo);
             ll_add(pArrayListEmployee, newEmployee);
             printf("\n--Empleado dado de alta con exito--\n");
@@ -195,25 +195,28 @@ int controller_editEmployee(LinkedList* pArrayListEmployee)
  */
 int controller_removeEmployee(LinkedList* pArrayListEmployee)
 {
-    int auxID,i,len, flag = 0;
-    char option;
+    int auxID;
+    int i;
+    int cantidad;
+    int buffer = 0;
+    char opcion;
     Employee* auxEmployee;
 
-    len= ll_len(pArrayListEmployee);
+    cantidad= ll_len(pArrayListEmployee);
 
     if(pArrayListEmployee != NULL)
     {
         auxID = getInt(&auxID,"Ingrese el id del nuevo empleado:","Error",1,10000,2);
-        for(i = 0; i < len; i++)
+        for(i = 0; i < cantidad; i++)
         {
             auxEmployee = (Employee*) ll_get(pArrayListEmployee, i);
             if( auxID == auxEmployee->id)
             {
-                toString(auxEmployee);
+                getInt(&auxID,"Ingrese el id del nuevo empleado:","Error",1,10000,2);
                 printf("Desea dar de baja?: ");
-                option = getche();
 
-                if(option == 's')
+
+                if(opcion == 's')
                 {
                     ll_remove(pArrayListEmployee, i);
                     printf("\nEmpleado dado de baja\n");
@@ -223,12 +226,12 @@ int controller_removeEmployee(LinkedList* pArrayListEmployee)
                 {
                     printf("El empleado no fue dado de baja\n");
                 }
-                flag = 1;
+                buffer = 1;
                 break;
             }
         }
     }
-    if(flag == 0)
+    if(buffer == 0)
     {
         printf("Ese ID no existe...\n");
     }
