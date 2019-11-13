@@ -1,0 +1,1484 @@
+19:11:04 **** Build of configuration Debug for project likedList ****
+make all 
+Building file: ../testing/src/Employee.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/Employee.d" -MT"testing/src/Employee.o" -o "testing/src/Employee.o" "../testing/src/Employee.c"
+Finished building: ../testing/src/Employee.c
+ 
+Building file: ../testing/src/addNodeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/addNodeTest.d" -MT"testing/src/addNodeTest.o" -o "testing/src/addNodeTest.o" "../testing/src/addNodeTest.c"
+Finished building: ../testing/src/addNodeTest.c
+ 
+Building file: ../testing/src/addTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/addTest.d" -MT"testing/src/addTest.o" -o "testing/src/addTest.o" "../testing/src/addTest.c"
+Finished building: ../testing/src/addTest.c
+ 
+Building file: ../testing/src/clearTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/clearTest.d" -MT"testing/src/clearTest.o" -o "testing/src/clearTest.o" "../testing/src/clearTest.c"
+Finished building: ../testing/src/clearTest.c
+ 
+Building file: ../testing/src/cloneTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/cloneTest.d" -MT"testing/src/cloneTest.o" -o "testing/src/cloneTest.o" "../testing/src/cloneTest.c"
+Finished building: ../testing/src/cloneTest.c
+ 
+Building file: ../testing/src/containsAllTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/containsAllTest.d" -MT"testing/src/containsAllTest.o" -o "testing/src/containsAllTest.o" "../testing/src/containsAllTest.c"
+Finished building: ../testing/src/containsAllTest.c
+ 
+Building file: ../testing/src/containsTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/containsTest.d" -MT"testing/src/containsTest.o" -o "testing/src/containsTest.o" "../testing/src/containsTest.c"
+Finished building: ../testing/src/containsTest.c
+ 
+Building file: ../testing/src/deleteLinkedListTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/deleteLinkedListTest.d" -MT"testing/src/deleteLinkedListTest.o" -o "testing/src/deleteLinkedListTest.o" "../testing/src/deleteLinkedListTest.c"
+Finished building: ../testing/src/deleteLinkedListTest.c
+ 
+Building file: ../testing/src/getNodeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/getNodeTest.d" -MT"testing/src/getNodeTest.o" -o "testing/src/getNodeTest.o" "../testing/src/getNodeTest.c"
+Finished building: ../testing/src/getNodeTest.c
+ 
+Building file: ../testing/src/getTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/getTest.d" -MT"testing/src/getTest.o" -o "testing/src/getTest.o" "../testing/src/getTest.c"
+Finished building: ../testing/src/getTest.c
+ 
+Building file: ../testing/src/indexOfTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/indexOfTest.d" -MT"testing/src/indexOfTest.o" -o "testing/src/indexOfTest.o" "../testing/src/indexOfTest.c"
+Finished building: ../testing/src/indexOfTest.c
+ 
+Building file: ../testing/src/isEmptyTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/isEmptyTest.d" -MT"testing/src/isEmptyTest.o" -o "testing/src/isEmptyTest.o" "../testing/src/isEmptyTest.c"
+Finished building: ../testing/src/isEmptyTest.c
+ 
+Building file: ../testing/src/lenTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/lenTest.d" -MT"testing/src/lenTest.o" -o "testing/src/lenTest.o" "../testing/src/lenTest.c"
+Finished building: ../testing/src/lenTest.c
+ 
+Building file: ../testing/src/main_test.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/main_test.d" -MT"testing/src/main_test.o" -o "testing/src/main_test.o" "../testing/src/main_test.c"
+Finished building: ../testing/src/main_test.c
+ 
+Building file: ../testing/src/newTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/newTest.d" -MT"testing/src/newTest.o" -o "testing/src/newTest.o" "../testing/src/newTest.c"
+Finished building: ../testing/src/newTest.c
+ 
+Building file: ../testing/src/popTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/popTest.d" -MT"testing/src/popTest.o" -o "testing/src/popTest.o" "../testing/src/popTest.c"
+Finished building: ../testing/src/popTest.c
+ 
+Building file: ../testing/src/pushTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/pushTest.d" -MT"testing/src/pushTest.o" -o "testing/src/pushTest.o" "../testing/src/pushTest.c"
+Finished building: ../testing/src/pushTest.c
+ 
+Building file: ../testing/src/removeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/removeTest.d" -MT"testing/src/removeTest.o" -o "testing/src/removeTest.o" "../testing/src/removeTest.c"
+Finished building: ../testing/src/removeTest.c
+ 
+Building file: ../testing/src/setTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/setTest.d" -MT"testing/src/setTest.o" -o "testing/src/setTest.o" "../testing/src/setTest.c"
+Finished building: ../testing/src/setTest.c
+ 
+Building file: ../testing/src/sortTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/sortTest.d" -MT"testing/src/sortTest.o" -o "testing/src/sortTest.o" "../testing/src/sortTest.c"
+Finished building: ../testing/src/sortTest.c
+ 
+Building file: ../testing/src/subListTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/subListTest.d" -MT"testing/src/subListTest.o" -o "testing/src/subListTest.o" "../testing/src/subListTest.c"
+Finished building: ../testing/src/subListTest.c
+ 
+Building file: ../testing/utest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/utest.d" -MT"testing/utest.o" -o "testing/utest.o" "../testing/utest.c"
+Finished building: ../testing/utest.c
+ 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+19:11:12 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+19:14:18 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+19:14:20 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+19:16:00 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+19:16:02 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+19:19:46 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+19:19:48 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+19:27:57 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+19:27:59 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+19:29:46 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+19:29:49 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+19:48:44 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_add’:
+../src/LinkedList.c:137:20: error: ‘nodeIndex’ undeclared (first use in this function)
+src/subdir.mk:21: fallo en las instrucciones para el objetivo 'src/LinkedList.o'
+       addNode(this,nodeIndex,pElement);
+                    ^~~~~~~~~
+../src/LinkedList.c:137:20: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/LinkedList.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:48:48 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_add’:
+../src/LinkedList.c:137:20: error: ‘nodeIndex’ undeclared (first use in this function)
+       addNode(this,nodeIndex,pElement);
+                    ^~~~~~~~~
+../src/LinkedList.c:137:20: note: each undeclared identifier is reported only once for each function it appears in
+src/subdir.mk:21: fallo en las instrucciones para el objetivo 'src/LinkedList.o'
+make: *** [src/LinkedList.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:53:12 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+19:53:33 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:02:34 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:02:36 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:06:43 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:06:44 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:09:26 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_remove’:
+../src/LinkedList.c:208:22: warning: assignment makes pointer from integer without a cast [-Wint-conversion]
+      pNodo->pElement = index;
+                      ^
+../src/LinkedList.c:384:1: error: expected declaration or statement at end of input
+ }
+ ^
+../src/LinkedList.c:384:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+At top level:
+../src/LinkedList.c:378:5: warning: ‘ll_sort’ defined but not used [-Wunused-function]
+ int ll_sort(LinkedList* this, int (*pFunc)(void* ,void*), int order)
+     ^~~~~~~
+../src/LinkedList.c:363:13: warning: ‘ll_clone’ defined but not used [-Wunused-function]
+src/subdir.mk:21: fallo en las instrucciones para el objetivo 'src/LinkedList.o'
+ LinkedList* ll_clone(LinkedList* this)
+             ^~~~~~~~
+../src/LinkedList.c:348:13: warning: ‘ll_subList’ defined but not used [-Wunused-function]
+ LinkedList* ll_subList(LinkedList* this,int from,int to)
+             ^~~~~~~~~~
+../src/LinkedList.c:331:5: warning: ‘ll_containsAll’ defined but not used [-Wunused-function]
+ int ll_containsAll(LinkedList* this,LinkedList* this2)
+     ^~~~~~~~~~~~~~
+../src/LinkedList.c:315:5: warning: ‘ll_contains’ defined but not used [-Wunused-function]
+ int ll_contains(LinkedList* this, void* pElement)
+     ^~~~~~~~~~~
+../src/LinkedList.c:299:7: warning: ‘ll_pop’ defined but not used [-Wunused-function]
+ void* ll_pop(LinkedList* this,int index)
+       ^~~~~~
+../src/LinkedList.c:283:5: warning: ‘ll_push’ defined but not used [-Wunused-function]
+ int ll_push(LinkedList* this, int index, void* pElement)
+     ^~~~~~~
+../src/LinkedList.c:267:5: warning: ‘ll_isEmpty’ defined but not used [-Wunused-function]
+ int ll_isEmpty(LinkedList* this)
+     ^~~~~~~~~~
+../src/LinkedList.c:252:5: warning: ‘ll_indexOf’ defined but not used [-Wunused-function]
+ int ll_indexOf(LinkedList* this, void* pElement)
+     ^~~~~~~~~~
+../src/LinkedList.c:237:5: warning: ‘ll_deleteLinkedList’ defined but not used [-Wunused-function]
+ int ll_deleteLinkedList(LinkedList* this)
+     ^~~~~~~~~~~~~~~~~~~
+../src/LinkedList.c:222:5: warning: ‘ll_clear’ defined but not used [-Wunused-function]
+ int ll_clear(LinkedList* this)
+     ^~~~~~~~
+make: *** [src/LinkedList.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:16:16 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_remove’:
+../src/LinkedList.c:207:8: warning: ‘pNodo’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+      if(pNodo == NULL) return -1;
+        ^
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:23:18 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:23:52 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:25:57 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:25:59 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:27:37 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_get’:
+../src/LinkedList.c:155:11: warning: unused variable ‘pNodo’ [-Wunused-variable]
+     Node* pNodo = NULL;
+           ^~~~~
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:28:04 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_get’:
+../src/LinkedList.c:155:11: warning: variable ‘pNodo’ set but not used [-Wunused-but-set-variable]
+     Node* pNodo = NULL;
+           ^~~~~
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:29:50 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:29:55 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:31:40 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:31:41 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:33:15 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:33:17 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:43:50 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_remove’:
+../src/LinkedList.c:223:9: warning: ‘pNodo’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+       if(pNodo != NULL)
+         ^
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:43:54 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:45:51 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_remove’:
+../src/LinkedList.c:223:24: warning: ‘pNodo’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+       pNodo->pNextNode = pNodoAnterior->pNextNode;
+       ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:45:53 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:46:49 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_remove’:
+../src/LinkedList.c:223:24: warning: ‘pNodo’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+       pNodo->pNextNode = pNodoAnterior->pNextNode;
+       ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:46:51 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:53:20 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:53:22 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:53:28 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:53:34 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:53:36 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:53:59 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:54:00 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:54:52 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_remove’:
+../src/LinkedList.c:215:8: warning: ‘pNodo’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+      if(pNodo == 0)
+        ^
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:54:55 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:55:12 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_remove’:
+../src/LinkedList.c:215:8: warning: ‘pNodo’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+      if(pNodo == 0)
+        ^
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:55:14 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:56:08 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:56:10 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:56:59 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:57:01 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:58:17 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:58:19 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:59:19 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:59:21 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+20:59:53 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+20:59:54 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:00:09 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:00:11 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:00:28 **** Clean-only build of configuration Debug for project likedList ****
+make clean 
+rm -rf  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o  ./testing/src/Employee.d ./testing/src/addNodeTest.d ./testing/src/addTest.d ./testing/src/clearTest.d ./testing/src/cloneTest.d ./testing/src/containsAllTest.d ./testing/src/containsTest.d ./testing/src/deleteLinkedListTest.d ./testing/src/getNodeTest.d ./testing/src/getTest.d ./testing/src/indexOfTest.d ./testing/src/isEmptyTest.d ./testing/src/lenTest.d ./testing/src/main_test.d ./testing/src/newTest.d ./testing/src/popTest.d ./testing/src/pushTest.d ./testing/src/removeTest.d ./testing/src/setTest.d ./testing/src/sortTest.d ./testing/src/subListTest.d  ./testing/utest.d  ./src/LinkedList.d ./src/main.d  likedList
+ 
+21:00:30 **** Build of configuration Debug for project likedList ****
+make all 
+Building file: ../testing/src/Employee.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/Employee.d" -MT"testing/src/Employee.o" -o "testing/src/Employee.o" "../testing/src/Employee.c"
+Finished building: ../testing/src/Employee.c
+ 
+Building file: ../testing/src/addNodeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/addNodeTest.d" -MT"testing/src/addNodeTest.o" -o "testing/src/addNodeTest.o" "../testing/src/addNodeTest.c"
+Finished building: ../testing/src/addNodeTest.c
+ 
+Building file: ../testing/src/addTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/addTest.d" -MT"testing/src/addTest.o" -o "testing/src/addTest.o" "../testing/src/addTest.c"
+Finished building: ../testing/src/addTest.c
+ 
+Building file: ../testing/src/clearTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/clearTest.d" -MT"testing/src/clearTest.o" -o "testing/src/clearTest.o" "../testing/src/clearTest.c"
+Finished building: ../testing/src/clearTest.c
+ 
+Building file: ../testing/src/cloneTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/cloneTest.d" -MT"testing/src/cloneTest.o" -o "testing/src/cloneTest.o" "../testing/src/cloneTest.c"
+Finished building: ../testing/src/cloneTest.c
+ 
+Building file: ../testing/src/containsAllTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/containsAllTest.d" -MT"testing/src/containsAllTest.o" -o "testing/src/containsAllTest.o" "../testing/src/containsAllTest.c"
+Finished building: ../testing/src/containsAllTest.c
+ 
+Building file: ../testing/src/containsTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/containsTest.d" -MT"testing/src/containsTest.o" -o "testing/src/containsTest.o" "../testing/src/containsTest.c"
+Finished building: ../testing/src/containsTest.c
+ 
+Building file: ../testing/src/deleteLinkedListTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/deleteLinkedListTest.d" -MT"testing/src/deleteLinkedListTest.o" -o "testing/src/deleteLinkedListTest.o" "../testing/src/deleteLinkedListTest.c"
+Finished building: ../testing/src/deleteLinkedListTest.c
+ 
+Building file: ../testing/src/getNodeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/getNodeTest.d" -MT"testing/src/getNodeTest.o" -o "testing/src/getNodeTest.o" "../testing/src/getNodeTest.c"
+Finished building: ../testing/src/getNodeTest.c
+ 
+Building file: ../testing/src/getTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/getTest.d" -MT"testing/src/getTest.o" -o "testing/src/getTest.o" "../testing/src/getTest.c"
+Finished building: ../testing/src/getTest.c
+ 
+Building file: ../testing/src/indexOfTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/indexOfTest.d" -MT"testing/src/indexOfTest.o" -o "testing/src/indexOfTest.o" "../testing/src/indexOfTest.c"
+Finished building: ../testing/src/indexOfTest.c
+ 
+Building file: ../testing/src/isEmptyTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/isEmptyTest.d" -MT"testing/src/isEmptyTest.o" -o "testing/src/isEmptyTest.o" "../testing/src/isEmptyTest.c"
+Finished building: ../testing/src/isEmptyTest.c
+ 
+Building file: ../testing/src/lenTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/lenTest.d" -MT"testing/src/lenTest.o" -o "testing/src/lenTest.o" "../testing/src/lenTest.c"
+Finished building: ../testing/src/lenTest.c
+ 
+Building file: ../testing/src/main_test.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/main_test.d" -MT"testing/src/main_test.o" -o "testing/src/main_test.o" "../testing/src/main_test.c"
+Finished building: ../testing/src/main_test.c
+ 
+Building file: ../testing/src/newTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/newTest.d" -MT"testing/src/newTest.o" -o "testing/src/newTest.o" "../testing/src/newTest.c"
+Finished building: ../testing/src/newTest.c
+ 
+Building file: ../testing/src/popTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/popTest.d" -MT"testing/src/popTest.o" -o "testing/src/popTest.o" "../testing/src/popTest.c"
+Finished building: ../testing/src/popTest.c
+ 
+Building file: ../testing/src/pushTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/pushTest.d" -MT"testing/src/pushTest.o" -o "testing/src/pushTest.o" "../testing/src/pushTest.c"
+Finished building: ../testing/src/pushTest.c
+ 
+Building file: ../testing/src/removeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/removeTest.d" -MT"testing/src/removeTest.o" -o "testing/src/removeTest.o" "../testing/src/removeTest.c"
+Finished building: ../testing/src/removeTest.c
+ 
+Building file: ../testing/src/setTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/setTest.d" -MT"testing/src/setTest.o" -o "testing/src/setTest.o" "../testing/src/setTest.c"
+Finished building: ../testing/src/setTest.c
+ 
+Building file: ../testing/src/sortTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/sortTest.d" -MT"testing/src/sortTest.o" -o "testing/src/sortTest.o" "../testing/src/sortTest.c"
+Finished building: ../testing/src/sortTest.c
+ 
+Building file: ../testing/src/subListTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/subListTest.d" -MT"testing/src/subListTest.o" -o "testing/src/subListTest.o" "../testing/src/subListTest.c"
+Finished building: ../testing/src/subListTest.c
+ 
+Building file: ../testing/utest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/utest.d" -MT"testing/utest.o" -o "testing/utest.o" "../testing/utest.c"
+Finished building: ../testing/utest.c
+ 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:00:33 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:02:28 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:02:29 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:03:32 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:03:33 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:08:55 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:08:57 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:11:23 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:11:24 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:18:48 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:18:49 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:20:09 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:20:10 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:21:22 **** Clean-only build of configuration Debug for project likedList ****
+make clean 
+rm -rf  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o  ./testing/src/Employee.d ./testing/src/addNodeTest.d ./testing/src/addTest.d ./testing/src/clearTest.d ./testing/src/cloneTest.d ./testing/src/containsAllTest.d ./testing/src/containsTest.d ./testing/src/deleteLinkedListTest.d ./testing/src/getNodeTest.d ./testing/src/getTest.d ./testing/src/indexOfTest.d ./testing/src/isEmptyTest.d ./testing/src/lenTest.d ./testing/src/main_test.d ./testing/src/newTest.d ./testing/src/popTest.d ./testing/src/pushTest.d ./testing/src/removeTest.d ./testing/src/setTest.d ./testing/src/sortTest.d ./testing/src/subListTest.d  ./testing/utest.d  ./src/LinkedList.d ./src/main.d  likedList
+ 
+21:21:25 **** Build of configuration Debug for project likedList ****
+make all 
+Building file: ../testing/src/Employee.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/Employee.d" -MT"testing/src/Employee.o" -o "testing/src/Employee.o" "../testing/src/Employee.c"
+Finished building: ../testing/src/Employee.c
+ 
+Building file: ../testing/src/addNodeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/addNodeTest.d" -MT"testing/src/addNodeTest.o" -o "testing/src/addNodeTest.o" "../testing/src/addNodeTest.c"
+Finished building: ../testing/src/addNodeTest.c
+ 
+Building file: ../testing/src/addTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/addTest.d" -MT"testing/src/addTest.o" -o "testing/src/addTest.o" "../testing/src/addTest.c"
+Finished building: ../testing/src/addTest.c
+ 
+Building file: ../testing/src/clearTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/clearTest.d" -MT"testing/src/clearTest.o" -o "testing/src/clearTest.o" "../testing/src/clearTest.c"
+Finished building: ../testing/src/clearTest.c
+ 
+Building file: ../testing/src/cloneTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/cloneTest.d" -MT"testing/src/cloneTest.o" -o "testing/src/cloneTest.o" "../testing/src/cloneTest.c"
+Finished building: ../testing/src/cloneTest.c
+ 
+Building file: ../testing/src/containsAllTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/containsAllTest.d" -MT"testing/src/containsAllTest.o" -o "testing/src/containsAllTest.o" "../testing/src/containsAllTest.c"
+Finished building: ../testing/src/containsAllTest.c
+ 
+Building file: ../testing/src/containsTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/containsTest.d" -MT"testing/src/containsTest.o" -o "testing/src/containsTest.o" "../testing/src/containsTest.c"
+Finished building: ../testing/src/containsTest.c
+ 
+Building file: ../testing/src/deleteLinkedListTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/deleteLinkedListTest.d" -MT"testing/src/deleteLinkedListTest.o" -o "testing/src/deleteLinkedListTest.o" "../testing/src/deleteLinkedListTest.c"
+Finished building: ../testing/src/deleteLinkedListTest.c
+ 
+Building file: ../testing/src/getNodeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/getNodeTest.d" -MT"testing/src/getNodeTest.o" -o "testing/src/getNodeTest.o" "../testing/src/getNodeTest.c"
+Finished building: ../testing/src/getNodeTest.c
+ 
+Building file: ../testing/src/getTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/getTest.d" -MT"testing/src/getTest.o" -o "testing/src/getTest.o" "../testing/src/getTest.c"
+Finished building: ../testing/src/getTest.c
+ 
+Building file: ../testing/src/indexOfTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/indexOfTest.d" -MT"testing/src/indexOfTest.o" -o "testing/src/indexOfTest.o" "../testing/src/indexOfTest.c"
+Finished building: ../testing/src/indexOfTest.c
+ 
+Building file: ../testing/src/isEmptyTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/isEmptyTest.d" -MT"testing/src/isEmptyTest.o" -o "testing/src/isEmptyTest.o" "../testing/src/isEmptyTest.c"
+Finished building: ../testing/src/isEmptyTest.c
+ 
+Building file: ../testing/src/lenTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/lenTest.d" -MT"testing/src/lenTest.o" -o "testing/src/lenTest.o" "../testing/src/lenTest.c"
+Finished building: ../testing/src/lenTest.c
+ 
+Building file: ../testing/src/main_test.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/main_test.d" -MT"testing/src/main_test.o" -o "testing/src/main_test.o" "../testing/src/main_test.c"
+Finished building: ../testing/src/main_test.c
+ 
+Building file: ../testing/src/newTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/newTest.d" -MT"testing/src/newTest.o" -o "testing/src/newTest.o" "../testing/src/newTest.c"
+Finished building: ../testing/src/newTest.c
+ 
+Building file: ../testing/src/popTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/popTest.d" -MT"testing/src/popTest.o" -o "testing/src/popTest.o" "../testing/src/popTest.c"
+Finished building: ../testing/src/popTest.c
+ 
+Building file: ../testing/src/pushTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/pushTest.d" -MT"testing/src/pushTest.o" -o "testing/src/pushTest.o" "../testing/src/pushTest.c"
+Finished building: ../testing/src/pushTest.c
+ 
+Building file: ../testing/src/removeTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/removeTest.d" -MT"testing/src/removeTest.o" -o "testing/src/removeTest.o" "../testing/src/removeTest.c"
+Finished building: ../testing/src/removeTest.c
+ 
+Building file: ../testing/src/setTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/setTest.d" -MT"testing/src/setTest.o" -o "testing/src/setTest.o" "../testing/src/setTest.c"
+Finished building: ../testing/src/setTest.c
+ 
+Building file: ../testing/src/sortTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/sortTest.d" -MT"testing/src/sortTest.o" -o "testing/src/sortTest.o" "../testing/src/sortTest.c"
+Finished building: ../testing/src/sortTest.c
+ 
+Building file: ../testing/src/subListTest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/src/subListTest.d" -MT"testing/src/subListTest.o" -o "testing/src/subListTest.o" "../testing/src/subListTest.c"
+Finished building: ../testing/src/subListTest.c
+ 
+Building file: ../testing/utest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"testing/utest.d" -MT"testing/utest.o" -o "testing/utest.o" "../testing/utest.c"
+Finished building: ../testing/utest.c
+ 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:21:27 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:23:52 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:23:54 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:26:32 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:26:34 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:27:25 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:27:26 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:29:47 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:29:48 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:32:01 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:32:02 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:32:56 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:32:57 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:33:19 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:33:21 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:49:48 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:49:50 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:50:10 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:50:11 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:51:21 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:51:22 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:52:31 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:52:33 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:54:15 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:54:16 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:55:43 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:55:45 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+21:58:05 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+21:58:06 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:03:02 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:03:03 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:03:40 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:03:41 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:04:17 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:04:18 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:04:40 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:04:41 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:05:54 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:05:55 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:06:19 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:06:20 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:10:25 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:10:26 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:12:48 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+../src/LinkedList.c: In function ‘ll_push’:
+../src/LinkedList.c:346:41: error: lvalue required as left operand of assignment
+     if(this != NULL && index>=0 && index=this->size)
+                                         ^
+src/subdir.mk:21: fallo en las instrucciones para el objetivo 'src/LinkedList.o'
+make: *** [src/LinkedList.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+22:13:02 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:13:03 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:13:32 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:13:34 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:14:38 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:14:39 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:15:09 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:15:10 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
+22:16:02 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+Building file: ../src/LinkedList.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedList.d" -MT"src/LinkedList.o" -o "src/LinkedList.o" "../src/LinkedList.c"
+Finished building: ../src/LinkedList.c
+ 
+Building target: likedList
+Invoking: GCC C Linker
+gcc  -o "likedList"  ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+Finished building target: likedList
+ 
+22:16:03 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+make: No se hace nada para 'all'.
