@@ -23,7 +23,23 @@
 #include "../testing/inc/main_test.h"
 #include "../inc/LinkedList.h"
 
+int f(void* elemento){
+	int * entero;
 
+	entero = (int* ) elemento;
+
+	printf("%d\n", *entero);
+	return 0;
+}
+int ff(void* elemento){
+	int * entero;
+	int retorno = 0;
+	entero = (int* ) elemento;
+
+	if(*entero<=5)
+		retorno = 1;
+	return retorno;
+}
 int main(void)
 {
 	startTesting(1);  // ll_newLinkedList
@@ -46,10 +62,20 @@ int main(void)
     startTesting(18); // ll_clone
 	startTesting(19); // ll_sort */
 
+	LinkedList* list = ll_newLinkedList();
+	//LinkedList* list2;
+	int array[5]= {5,3,8,3,5};
+	int i;
+	for (i=0; i<5; i++)
+		ll_add(list,&array[i]);
+	    ll_map(list,f);
+	//list2 = ll_filter(list,ff);
+	//ll_map(list2,f);
+	//ll_reduce(list,ff);
+	//ll_map(list,f);
+
     return 0;
 }
-
-
 
 
 
