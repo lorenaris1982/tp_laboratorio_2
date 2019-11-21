@@ -535,7 +535,7 @@ int ll_sort(LinkedList* this, int (*pFunc)(void* ,void*), int order)
 
 }
 
-/** \brief Ordena los elementos de la lista utilizando la funcion criterio recibida como parametro
+/** \brief Mapea los elementos de la lista utilizando la funcion recibida como parametro
  * \param pList LinkedList* Puntero a la lista
  * \param pFunc (*pFunc) Puntero a la funcion criterio
  * \param order int  [1] Indica orden ascendente - [0] Indica orden descendente
@@ -561,3 +561,48 @@ int ll_map(LinkedList* this, int (*pFunc)(void*))
 
 	return returnAux;
 }
+
+LinkedList* ll_filter(LinkedList* this, int (*pFunc)(void*))
+{
+	LinkedList* listaFiltrada = NULL;
+	int i;
+	Node* pElemento;
+	if(this != NULL && pFunc != NULL)
+	{
+		listaFiltrada = ll_newLinkedList();
+		for(i=0; i<ll_len(this); i++)
+		{
+			pElemento = ll_get(this,i);
+			if(pFunc(pElemento)==1)
+			{
+				ll_add(listaFiltrada, pElemento);
+			}
+		}
+	}
+	return listaFiltrada;
+}
+
+LinkedList* ll_reduce(LinkedList *this, int (*pFunc)(void*))
+{
+	int i;
+	Node* pElemento;
+	int cantidad;
+
+	if(this!=NULL && pFunc!=NULL)
+	{
+		cantidad=this->size;
+
+		for(i=0;i<cantidad;i++)
+		{
+			pElemento=ll_get(this,i);
+
+			if(pFunc(pElemento)==-1)
+			{
+				ll_remove(this,i);
+				this->size --;
+			}
+		}
+	}
+	return this;
+}
+
